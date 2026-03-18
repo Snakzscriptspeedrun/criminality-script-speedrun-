@@ -1,1 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Snakzscriptspeedrun/criminality-script-speedrun-/refs/heads/main/crim"))()
 
+
+keybind for the script is RightShift
